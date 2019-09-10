@@ -1,0 +1,5 @@
+name: LoginMessage
+main: kabochamaru.LoginMessage.LoginMessage
+version: 1.0.0
+author: kabochamaru
+description: bukkit Plugin
